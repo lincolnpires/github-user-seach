@@ -1,0 +1,21 @@
+.profile {
+  margin: 1rem 0.5rem;
+  padding: 0.5rem;
+  display: inline-block;
+  border: 1px solid #ccc;
+}
+
+.profile img {
+  width: 70px;
+  vertical-align: middle;
+}
+
+.info {
+  display: inline-block;
+  margin-left: 0.75rem;
+}
+
+.info .name {
+  font-size: 1.25rem;
+  font-weight: bold;
+}

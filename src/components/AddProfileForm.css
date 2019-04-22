@@ -1,0 +1,23 @@
+form {
+  border: thin solid #efefef;
+  background-color: #fefefe;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  line-height: 20px;
+  background-color: #28a745;
+  color: #fff;
+  border-color: #279f43;
+}
+
+button:hover {
+  background-color: #269f42;
+}
+
+button:active {
+  background-color: #279f43;
+}
